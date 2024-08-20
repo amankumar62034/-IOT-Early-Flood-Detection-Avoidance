@@ -1,4 +1,4 @@
-Flood-detection-and-management-using-Arduino
+Early Flood detection and avoidance using Arduino
 Project circuit diagram : {refer this (link) circuit diagram for connections}
 
 (https://user-images.githubusercontent.com/99020701/212123257-ad2f3fb3-e8cb-4e6c-955e-7395e5292b0a.jpg)
